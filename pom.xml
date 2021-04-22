@@ -25,7 +25,7 @@
     <javax.servlet-api.version>3.1.0</javax.servlet-api.version>
     <jsp-api.version>2.2</jsp-api.version>
     <jstl.version>1.2</jstl.version>
-    <mybatis.version>3.5.2</mybatis.version>
+    <mybatis.version>3.5.6</mybatis.version>
     <mybatis-spring.version>2.0.1</mybatis-spring.version>
     <jackson.version>2.8.5</jackson.version>
     <lomback.version>1.16.18</lomback.version>
